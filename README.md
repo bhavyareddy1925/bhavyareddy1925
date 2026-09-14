@@ -33,9 +33,9 @@
 
 ## 📌 Projects
 
+[Resume-CV](https://bhavyareddy1925.github.io/Resume-CV/)
 
-
- 📈 My Learning Journey
+## 📈 My Learning Journey
 
 **Learn → Practice → Build → Improve → Grow 🚀**
 
