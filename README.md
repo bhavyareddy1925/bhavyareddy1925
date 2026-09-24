@@ -34,6 +34,7 @@
 ## 📌 Projects
 
 [Resume-CV](https://bhavyareddy1925.github.io/Resume-CV/)
+
 [Number-Guessing-Game](https://github.com/bhavyareddy1925/number-guessing-game)
 
 ## 📈 My Learning Journey
